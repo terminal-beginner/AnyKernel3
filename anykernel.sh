@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Dragonw1nd Kernel by nullptr-t-oss
+kernel.string=Dragonw1nd Kernel by badhabbit
 do.devicecheck=0
 do.modules=0
 do.systemless=0
@@ -57,7 +57,7 @@ fi
 
 ui_print " "
 ui_print "Telegram channel for support:"
-ui_print "https://t.me/init_user0"
+ui_print "https://t.me/realsteel412"
 ui_print " "
 ui_print "If you like my project follow me and please leave a star :)"
 ui_print " "
